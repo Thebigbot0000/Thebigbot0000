@@ -7,7 +7,7 @@ Hi I'm an Italian developer
 
 - Javascript/Typescript
 
-- HTML/CSS
+- HTML/CSS/EJS
 
 - Front-end: Bootstrap
 
