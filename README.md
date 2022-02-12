@@ -17,6 +17,8 @@ Hi I'm an Italian developer
 
 - Project Managemen: Git/GitHub
 
+- Framework: Nextjs/React
+
 # 👨‍🎓 I'm learning... 
 
 - C/C++
