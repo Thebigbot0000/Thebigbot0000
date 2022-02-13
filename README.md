@@ -5,19 +5,19 @@ Hi I'm an Italian developer
 
 # 💻 I use...
 
-- Javascript/Typescript
+- Javascript, Typescript
 
-- HTML/CSS/EJS
+- HTML, CSS, EJS
 
 - Front-end: Bootstrap
 
-- Backend: Node.js/Express
+- Backend: Node.js, Express
 
-- Desktop application: C#/Electron
+- Desktop application: Electron
 
-- Project Managemen: Git/GitHub
+- Project Managemen: Git, GitHub
 
-- Framework: Nextjs/React
+- Framework: Nextjs, React
 
 # 👨‍🎓 I'm learning... 
 
@@ -25,8 +25,5 @@ Hi I'm an Italian developer
 
 - PHP
 
-# 📦 Contact me! 
+- Rust
 
-Discord: unavailable 
-
-Email: unavailable
