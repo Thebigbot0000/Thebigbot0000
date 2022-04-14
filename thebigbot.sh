@@ -41,6 +41,7 @@ case "$arg1" in
 💎 \033[38;5;207mWebsite\033[0m: thebigbot.mod.land
 🪵  \033[38;5;207mDiscord\033[0m: Thebigbot#2222 
 🤌  \033[38;5;207mCountry\033[0m: Italy"
+   ;;
 esac
 
 done
