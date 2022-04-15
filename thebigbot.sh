@@ -7,10 +7,6 @@
 # 🪵  \033[38;5;207mDiscord\033[0m: Thebigbot#2222 
 # 🤌  \033[38;5;207mCountry\033[0m: Italy"
 
-for arg1 in "$@"
-
-do
-
 case "$arg1" in
     "lang" | "language" )
    echo "🎏 \033[38;5;207mLanguage\033[0m: Javscript, Typescript, Shell, HTML, CSS, EJS"
@@ -43,5 +39,3 @@ case "$arg1" in
 🤌  \033[38;5;207mCountry\033[0m: Italy"
    ;;
 esac
-
-done
