@@ -1,5 +1,5 @@
 # Hello! I'm Valerio Clemenzi
 
-Hello! I am Valerio a 14 years old Italian boy interested in programming. 
-Lately I'm trying to move from vscode to neovim trying to make my own config. 
-I am interested in web development (full-stack) but I also like to make applications with Rust.
+Hello, I'm Valerio, and I'm a 14-year-old computer enthusiast. I've been passionate about computer science for about 2 years now. It all began when I first tried to create a bot for the Discord messaging platform, and it was love at first sight. Since that day, I've been constantly learning new things: new programming languages, new habits, and new goals. I quickly transitioned from Windows to Linux and replaced many of my software with open-source versions that respected my privacy. In no time, I learned JavaScript, then TypeScript, and explored new frameworks like React.
+Later on, I shifted from JavaScript, which had become my primary language for web app development, to new languages that I'm still exploring and learning, such as Go and Rust, to specialize not only in web development but also in other areas. During this time, I started making my first contributions to open-source projects, starting with translations and gradually moving on to small code contributions like refactoring and adding small functions.
+In the future, I hope to learn new things like creating Android apps, artificial intelligence, and much more, turning this passion into a career, the job of my dreams. 
